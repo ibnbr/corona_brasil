@@ -1,7 +1,11 @@
 # COVID-19 Dados Brazil
 Todos os dados são extraídos do [site](http://plataforma.saude.gov.br/novocoronavirus/) oficial do ministério da saúde.
 
-## Gráfico evolução dos casos por estado
+## Gráfico evolução dos casos
+### Total Geral do Brasil
+![grafico](https://github.com/ibnbr/corona_brasil/raw/master/grafico_brasil.png)
+
+### Casos por Estado
 ![grafico](https://github.com/ibnbr/corona_brasil/raw/master/grafico.png)
 
 ## Estrutura do arquivo
