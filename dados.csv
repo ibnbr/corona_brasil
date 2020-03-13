@@ -44,6 +44,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 31;Minas Gerais;117.0;22.0;0.0;1.0;False;2020-03-11 16:45:00
 31;Minas Gerais;117.0;22.0;0.0;1.0;False;2020-03-12 10:15:00
 31;Minas Gerais;117.0;22.0;0.0;1.0;False;2020-03-12 16:00:00
+31;Minas Gerais;117.0;22.0;0.0;1.0;False;2020-03-12 16:20:00
 33;Rio de Janeiro;1.0;0.0;0.0;0.0;False;2020-01-30 16:00:00
 33;Rio de Janeiro;0.0;1.0;0.0;0.0;False;2020-01-31 12:00:00
 33;Rio de Janeiro;0.0;1.0;0.0;0.0;False;2020-02-01 12:00:00
@@ -89,6 +90,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 33;Rio de Janeiro;87.0;133.0;0.0;13.0;False;2020-03-11 16:45:00
 33;Rio de Janeiro;87.0;133.0;0.0;13.0;False;2020-03-12 10:15:00
 33;Rio de Janeiro;76.0;146.0;0.0;16.0;False;2020-03-12 16:00:00
+33;Rio de Janeiro;76.0;146.0;0.0;16.0;False;2020-03-12 16:20:00
 42;Santa Catarina;0.0;2.0;0.0;0.0;False;2020-01-30 16:00:00
 42;Santa Catarina;1.0;2.0;0.0;0.0;False;2020-01-31 12:00:00
 42;Santa Catarina;2.0;2.0;0.0;0.0;False;2020-02-01 12:00:00
@@ -134,6 +136,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 42;Santa Catarina;47.0;32.0;0.0;0.0;False;2020-03-11 16:45:00
 42;Santa Catarina;67.0;32.0;0.0;0.0;False;2020-03-12 10:15:00
 42;Santa Catarina;67.0;34.0;0.0;0.0;False;2020-03-12 16:00:00
+42;Santa Catarina;73.0;34.0;0.0;0.0;False;2020-03-12 16:20:00
 35;São Paulo;3.0;1.0;0.0;0.0;False;2020-01-30 16:00:00
 35;São Paulo;7.0;2.0;0.0;0.0;False;2020-01-31 12:00:00
 35;São Paulo;8.0;2.0;0.0;0.0;False;2020-02-01 12:00:00
@@ -179,6 +182,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 35;São Paulo;263.0;320.0;0.0;30.0;True;2020-03-11 16:45:00
 35;São Paulo;255.0;328.0;0.0;30.0;True;2020-03-12 10:15:00
 35;São Paulo;714.0;465.0;0.0;41.0;True;2020-03-12 16:00:00
+35;São Paulo;704.0;471.0;0.0;42.0;True;2020-03-12 16:20:00
 43;Rio Grande do Sul;2.0;2.0;0.0;0.0;False;2020-01-30 16:00:00
 43;Rio Grande do Sul;2.0;3.0;0.0;0.0;False;2020-01-31 12:00:00
 43;Rio Grande do Sul;4.0;3.0;0.0;0.0;False;2020-02-01 12:00:00
@@ -224,6 +228,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 43;Rio Grande do Sul;67.0;159.0;0.0;2.0;False;2020-03-11 16:45:00
 43;Rio Grande do Sul;65.0;159.0;0.0;4.0;False;2020-03-12 10:15:00
 43;Rio Grande do Sul;82.0;183.0;0.0;4.0;False;2020-03-12 16:00:00
+43;Rio Grande do Sul;81.0;183.0;0.0;4.0;False;2020-03-12 16:20:00
 41;Paraná;1.0;1.0;0.0;0.0;False;2020-01-30 16:00:00
 41;Paraná;1.0;1.0;0.0;0.0;False;2020-01-31 12:00:00
 41;Paraná;1.0;1.0;0.0;0.0;False;2020-02-01 12:00:00
@@ -269,6 +274,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 41;Paraná;49.0;27.0;0.0;0.0;False;2020-03-11 16:45:00
 41;Paraná;46.0;27.0;0.0;6.0;False;2020-03-12 10:15:00
 41;Paraná;54.0;29.0;0.0;6.0;False;2020-03-12 16:00:00
+41;Paraná;54.0;29.0;0.0;6.0;False;2020-03-12 16:20:00
 23;Ceará;1.0;0.0;0.0;0.0;False;2020-01-30 16:00:00
 23;Ceará;1.0;0.0;0.0;0.0;False;2020-01-31 12:00:00
 23;Ceará;1.0;0.0;0.0;0.0;False;2020-02-01 12:00:00
@@ -314,6 +320,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 23;Ceará;22.0;42.0;0.0;0.0;False;2020-03-11 16:45:00
 23;Ceará;22.0;42.0;0.0;0.0;False;2020-03-12 10:15:00
 23;Ceará;22.0;42.0;0.0;0.0;False;2020-03-12 16:00:00
+23;Ceará;22.0;42.0;0.0;0.0;False;2020-03-12 16:20:00
 53;Distrito Federal;0.0;1.0;0.0;0.0;False;2020-02-13 16:00:00
 53;Distrito Federal;0.0;1.0;0.0;0.0;False;2020-02-14 16:00:00
 53;Distrito Federal;0.0;1.0;0.0;0.0;False;2020-02-15 14:00:00
@@ -343,6 +350,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 53;Distrito Federal;74.0;28.0;0.0;2.0;False;2020-03-11 16:45:00
 53;Distrito Federal;91.0;29.0;0.0;2.0;False;2020-03-12 10:15:00
 53;Distrito Federal;82.0;44.0;0.0;2.0;False;2020-03-12 16:00:00
+53;Distrito Federal;82.0;44.0;0.0;2.0;False;2020-03-12 16:20:00
 29;Bahia;0.0;2.0;0.0;0.0;False;2020-02-26 11:30:00
 29;Bahia;1.0;2.0;0.0;0.0;False;2020-02-27 17:00:00
 29;Bahia;9.0;4.0;0.0;0.0;False;2020-02-28 16:10:00
@@ -359,6 +367,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 29;Bahia;65.0;36.0;0.0;2.0;True;2020-03-11 16:45:00
 29;Bahia;65.0;36.0;0.0;2.0;True;2020-03-12 10:15:00
 29;Bahia;65.0;36.0;0.0;2.0;True;2020-03-12 16:00:00
+29;Bahia;65.0;36.0;0.0;2.0;True;2020-03-12 16:20:00
 25;Paraíba;1.0;0.0;0.0;0.0;False;2020-02-26 11:30:00
 25;Paraíba;1.0;0.0;0.0;0.0;False;2020-02-27 17:00:00
 25;Paraíba;1.0;1.0;0.0;0.0;False;2020-02-28 16:10:00
@@ -375,6 +384,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 25;Paraíba;7.0;6.0;0.0;0.0;False;2020-03-11 16:45:00
 25;Paraíba;8.0;6.0;0.0;0.0;False;2020-03-12 10:15:00
 25;Paraíba;10.0;6.0;0.0;0.0;False;2020-03-12 16:00:00
+25;Paraíba;10.0;6.0;0.0;0.0;False;2020-03-12 16:20:00
 26;Pernambuco;1.0;0.0;0.0;0.0;False;2020-02-26 11:30:00
 26;Pernambuco;3.0;0.0;0.0;0.0;False;2020-02-27 17:00:00
 26;Pernambuco;5.0;2.0;0.0;0.0;False;2020-02-28 16:10:00
@@ -391,6 +401,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 26;Pernambuco;17.0;22.0;0.0;0.0;False;2020-03-11 16:45:00
 26;Pernambuco;17.0;22.0;0.0;0.0;False;2020-03-12 10:15:00
 26;Pernambuco;18.0;23.0;0.0;2.0;False;2020-03-12 16:00:00
+26;Pernambuco;18.0;23.0;0.0;2.0;False;2020-03-12 16:20:00
 32;Espírito Santo;1.0;0.0;0.0;0.0;False;2020-02-26 11:30:00
 32;Espírito Santo;1.0;0.0;0.0;0.0;False;2020-02-27 17:00:00
 32;Espírito Santo;2.0;1.0;0.0;0.0;False;2020-02-28 16:10:00
@@ -407,6 +418,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 32;Espírito Santo;31.0;13.0;0.0;1.0;False;2020-03-11 16:45:00
 32;Espírito Santo;31.0;13.0;0.0;1.0;False;2020-03-12 10:15:00
 32;Espírito Santo;51.0;21.0;0.0;1.0;False;2020-03-12 16:00:00
+32;Espírito Santo;51.0;21.0;0.0;1.0;False;2020-03-12 16:20:00
 24;Rio Grande do Norte;4.0;0.0;0.0;0.0;False;2020-02-27 17:00:00
 24;Rio Grande do Norte;3.0;2.0;0.0;0.0;False;2020-02-28 16:10:00
 24;Rio Grande do Norte;3.0;2.0;0.0;0.0;False;2020-02-29 19:05:00
@@ -422,6 +434,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 24;Rio Grande do Norte;13.0;14.0;0.0;0.0;False;2020-03-11 16:45:00
 24;Rio Grande do Norte;13.0;14.0;0.0;0.0;False;2020-03-12 10:15:00
 24;Rio Grande do Norte;12.0;15.0;0.0;0.0;False;2020-03-12 16:00:00
+24;Rio Grande do Norte;13.0;15.0;0.0;0.0;False;2020-03-12 16:20:00
 27;Alagoas;1.0;0.0;0.0;0.0;False;2020-02-27 17:00:00
 27;Alagoas;1.0;0.0;0.0;0.0;False;2020-02-28 16:10:00
 27;Alagoas;1.0;0.0;0.0;0.0;False;2020-02-29 19:05:00
@@ -437,6 +450,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 27;Alagoas;4.0;7.0;0.0;1.0;False;2020-03-11 16:45:00
 27;Alagoas;4.0;7.0;0.0;1.0;False;2020-03-12 10:15:00
 27;Alagoas;6.0;7.0;0.0;1.0;False;2020-03-12 16:00:00
+27;Alagoas;6.0;7.0;0.0;1.0;False;2020-03-12 16:20:00
 50;Mato Grosso do Sul;2.0;0.0;0.0;0.0;False;2020-02-27 17:00:00
 50;Mato Grosso do Sul;2.0;0.0;0.0;0.0;False;2020-02-28 16:10:00
 50;Mato Grosso do Sul;2.0;0.0;0.0;0.0;False;2020-02-29 19:05:00
@@ -452,6 +466,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 50;Mato Grosso do Sul;6.0;11.0;0.0;0.0;False;2020-03-11 16:45:00
 50;Mato Grosso do Sul;6.0;11.0;0.0;0.0;False;2020-03-12 10:15:00
 50;Mato Grosso do Sul;9.0;15.0;0.0;0.0;False;2020-03-12 16:00:00
+50;Mato Grosso do Sul;9.0;15.0;0.0;0.0;False;2020-03-12 16:20:00
 52;Goiás;3.0;0.0;0.0;0.0;False;2020-02-27 17:00:00
 52;Goiás;5.0;0.0;0.0;0.0;False;2020-02-28 16:10:00
 52;Goiás;5.0;0.0;0.0;0.0;False;2020-02-29 19:05:00
@@ -467,6 +482,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 52;Goiás;17.0;28.0;0.0;0.0;False;2020-03-11 16:45:00
 52;Goiás;15.0;31.0;0.0;0.0;False;2020-03-12 10:15:00
 52;Goiás;16.0;33.0;0.0;0.0;False;2020-03-12 16:00:00
+52;Goiás;15.0;34.0;0.0;0.0;False;2020-03-12 16:20:00
 11;Rondônia;1.0;0.0;0.0;0.0;False;2020-03-02 16:30:00
 11;Rondônia;1.0;0.0;0.0;0.0;False;2020-03-03 15:50:00
 11;Rondônia;1.0;0.0;0.0;0.0;False;2020-03-04 17:15:00
@@ -478,6 +494,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 11;Rondônia;2.0;1.0;0.0;0.0;False;2020-03-11 16:45:00
 11;Rondônia;2.0;1.0;0.0;0.0;False;2020-03-12 10:15:00
 11;Rondônia;2.0;1.0;0.0;0.0;False;2020-03-12 16:00:00
+11;Rondônia;2.0;1.0;0.0;0.0;False;2020-03-12 16:20:00
 13;Amazonas;1.0;1.0;0.0;0.0;False;2020-03-02 16:30:00
 13;Amazonas;3.0;1.0;0.0;0.0;False;2020-03-03 15:50:00
 13;Amazonas;4.0;1.0;0.0;0.0;False;2020-03-04 17:15:00
@@ -489,6 +506,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 13;Amazonas;1.0;7.0;0.0;0.0;False;2020-03-11 16:45:00
 13;Amazonas;1.0;7.0;0.0;0.0;False;2020-03-12 10:15:00
 13;Amazonas;1.0;7.0;0.0;0.0;False;2020-03-12 16:00:00
+13;Amazonas;1.0;7.0;0.0;0.0;False;2020-03-12 16:20:00
 15;Pará;2.0;2.0;0.0;0.0;False;2020-03-02 16:30:00
 15;Pará;1.0;4.0;0.0;0.0;False;2020-03-03 15:50:00
 15;Pará;1.0;4.0;0.0;0.0;False;2020-03-04 17:15:00
@@ -500,6 +518,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 15;Pará;5.0;13.0;0.0;0.0;False;2020-03-11 16:45:00
 15;Pará;5.0;13.0;0.0;0.0;False;2020-03-12 10:15:00
 15;Pará;5.0;13.0;0.0;0.0;False;2020-03-12 16:00:00
+15;Pará;5.0;13.0;0.0;0.0;False;2020-03-12 16:20:00
 21;Maranhão;1.0;1.0;0.0;0.0;False;2020-03-02 16:30:00
 21;Maranhão;1.0;1.0;0.0;0.0;False;2020-03-03 15:50:00
 21;Maranhão;0.0;2.0;0.0;0.0;False;2020-03-04 17:15:00
@@ -511,6 +530,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 21;Maranhão;6.0;2.0;0.0;0.0;False;2020-03-11 16:45:00
 21;Maranhão;6.0;2.0;0.0;0.0;False;2020-03-12 10:15:00
 21;Maranhão;6.0;2.0;0.0;0.0;False;2020-03-12 16:00:00
+21;Maranhão;6.0;2.0;0.0;0.0;False;2020-03-12 16:20:00
 22;Piauí;1.0;2.0;0.0;0.0;False;2020-03-02 16:30:00
 22;Piauí;1.0;2.0;0.0;0.0;False;2020-03-03 15:50:00
 22;Piauí;1.0;2.0;0.0;0.0;False;2020-03-04 17:15:00
@@ -522,6 +542,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 22;Piauí;1.0;2.0;0.0;0.0;False;2020-03-11 16:45:00
 22;Piauí;1.0;2.0;0.0;0.0;False;2020-03-12 10:15:00
 22;Piauí;1.0;2.0;0.0;0.0;False;2020-03-12 16:00:00
+22;Piauí;1.0;2.0;0.0;0.0;False;2020-03-12 16:20:00
 28;Sergipe;1.0;0.0;0.0;0.0;False;2020-03-02 16:30:00
 28;Sergipe;1.0;0.0;0.0;0.0;False;2020-03-03 15:50:00
 28;Sergipe;1.0;0.0;0.0;0.0;False;2020-03-04 17:15:00
@@ -533,6 +554,7 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 28;Sergipe;2.0;3.0;0.0;0.0;False;2020-03-11 16:45:00
 28;Sergipe;2.0;3.0;0.0;0.0;False;2020-03-12 10:15:00
 28;Sergipe;2.0;3.0;0.0;0.0;False;2020-03-12 16:00:00
+28;Sergipe;2.0;3.0;0.0;0.0;False;2020-03-12 16:20:00
 51;Mato Grosso;5.0;0.0;0.0;0.0;False;2020-03-02 16:30:00
 51;Mato Grosso;6.0;0.0;0.0;0.0;False;2020-03-03 15:50:00
 51;Mato Grosso;6.0;0.0;0.0;0.0;False;2020-03-04 17:15:00
@@ -544,7 +566,9 @@ uid;estado;suspects;refuses;deads;cases;broadcast;data
 51;Mato Grosso;1.0;7.0;0.0;0.0;False;2020-03-11 16:45:00
 51;Mato Grosso;1.0;7.0;0.0;0.0;False;2020-03-12 10:15:00
 51;Mato Grosso;6.0;7.0;0.0;0.0;False;2020-03-12 16:00:00
+51;Mato Grosso;6.0;7.0;0.0;0.0;False;2020-03-12 16:20:00
 12;Acre;3.0;0.0;0.0;0.0;False;2020-03-10 16:05:00
 12;Acre;3.0;0.0;0.0;0.0;False;2020-03-11 16:45:00
 12;Acre;3.0;0.0;0.0;0.0;False;2020-03-12 10:15:00
 12;Acre;3.0;0.0;0.0;0.0;False;2020-03-12 16:00:00
+12;Acre;3.0;0.0;0.0;0.0;False;2020-03-12 16:20:00
