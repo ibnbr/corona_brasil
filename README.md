@@ -3,10 +3,10 @@ Todos os dados são extraídos do [site](http://plataforma.saude.gov.br/novocoro
 
 ## Gráfico evolução dos casos
 ### Total Geral do Brasil
-![grafico](https://github.com/ibnbr/corona_brasil/raw/master/grafico_brasil.png)
+![grafico Brasil](grafico_brasil.png?raw=true)
 
 ### Casos por Estado
-![grafico](https://github.com/ibnbr/corona_brasil/raw/master/grafico.png)
+![grafico Estado](grafico.png?raw=true)
 
 ## Estrutura do arquivo
 
