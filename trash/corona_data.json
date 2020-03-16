@@ -3616,5 +3616,406 @@
           "tip": "DF"
         }
       ]
+    },
+    {
+      "date": "14/03/2020",
+      "time": "16:25",
+      "values": [
+        {
+          "uid": 11,
+          "suspects": 2,
+          "refuses": 1
+        },
+        {
+          "uid": 12,
+          "suspects": 3
+        },
+        {
+          "uid": 13,
+          "suspects": 1,
+          "refuses": 7
+        },
+        {
+          "uid": 15,
+          "suspects": 1,
+          "refuses": 20
+        },
+        {
+          "uid": 17,
+          "suspects": 2
+        },
+        {
+          "uid": 21,
+          "suspects": 6,
+          "refuses": 2
+        },
+        {
+          "uid": 22,
+          "suspects": 1,
+          "refuses": 2
+        },
+        {
+          "uid": 23,
+          "suspects": 22,
+          "refuses": 59
+        },
+        {
+          "uid": 24,
+          "suspects": 12,
+          "cases": 1,
+          "refuses": 15
+        },
+        {
+          "uid": 25,
+          "suspects": 11,
+          "refuses": 11
+        },
+        {
+          "uid": 26,
+          "suspects": 18,
+          "cases": 2,
+          "refuses": 23
+        },
+        {
+          "uid": 27,
+          "suspects": 6,
+          "cases": 1,
+          "refuses": 7
+        },
+        {
+          "uid": 28,
+          "suspects": 4,
+          "refuses": 3
+        },
+        {
+          "uid": 29,
+          "suspects": 65,
+          "cases": 2,
+          "refuses": 36,
+          "broadcast": true
+        },
+        {
+          "uid": 31,
+          "suspects": 106,
+          "cases": 2,
+          "refuses": 85
+        },
+        {
+          "uid": 32,
+          "suspects": 51,
+          "cases": 1,
+          "refuses": 21
+        },
+        {
+          "uid": 33,
+          "suspects": 76,
+          "cases": 22,
+          "refuses": 147,
+          "comments": "Transmissão comunitária no município do Rio de Janeiro",
+          "broadcast": true
+        },
+        {
+          "uid": 35,
+          "suspects": 752,
+          "cases": 65,
+          "refuses": 545,
+          "comments": "Transmissão comunitária no município de São Paulo.",
+          "broadcast": true
+        },
+        {
+          "uid": 41,
+          "suspects": 60,
+          "cases": 6,
+          "refuses": 50
+        },
+        {
+          "uid": 42,
+          "suspects": 85,
+          "cases": 4,
+          "refuses": 39
+        },
+        {
+          "uid": 43,
+          "suspects": 80,
+          "cases": 6,
+          "refuses": 203
+        },
+        {
+          "uid": 50,
+          "suspects": 15,
+          "refuses": 16
+        },
+        {
+          "uid": 51,
+          "suspects": 6,
+          "refuses": 7
+        },
+        {
+          "uid": 52,
+          "suspects": 4,
+          "cases": 3,
+          "refuses": 49
+        },
+        {
+          "uid": 53,
+          "suspects": 107,
+          "cases": 6,
+          "refuses": 65
+        }
+      ]
+    },
+    {
+      "date": "15/03/2020",
+      "time": "19:15",
+      "values": [
+        {
+          "uid": 11,
+          "suspects": 2,
+          "refuses": 1,
+          "cases": 0,
+          "deaths": 0,
+          "name": "Rondônia",
+          "tip": "RO"
+        },
+        {
+          "uid": 12,
+          "suspects": 3,
+          "cases": 0,
+          "refuses": 0,
+          "deaths": 0,
+          "name": "Acre",
+          "tip": "AC"
+        },
+        {
+          "uid": 13,
+          "cases": 1,
+          "refuses": 7,
+          "suspects": 0,
+          "deaths": 0,
+          "name": "Amazonas",
+          "tip": "AM"
+        },
+        {
+          "uid": 14,
+          "suspects": 2,
+          "cases": 0,
+          "refuses": 0,
+          "deaths": 0,
+          "name": "Roraima",
+          "tip": "RR"
+        },
+        {
+          "uid": 15,
+          "suspects": 1,
+          "refuses": 23,
+          "cases": 0,
+          "deaths": 0,
+          "name": "Pará",
+          "tip": "PA"
+        },
+        {
+          "uid": 16,
+          "suspects": 1,
+          "cases": 0,
+          "refuses": 0,
+          "deaths": 0,
+          "name": "Amapá",
+          "tip": "AP"
+        },
+        {
+          "uid": 17,
+          "suspects": 3,
+          "cases": 0,
+          "refuses": 0,
+          "deaths": 0,
+          "name": "Tocantins",
+          "tip": "TO"
+        },
+        {
+          "uid": 21,
+          "suspects": 6,
+          "refuses": 2,
+          "cases": 0,
+          "deaths": 0,
+          "name": "Maranhão",
+          "tip": "MA"
+        },
+        {
+          "uid": 22,
+          "suspects": 1,
+          "refuses": 2,
+          "cases": 0,
+          "deaths": 0,
+          "name": "Piauí",
+          "tip": "PI"
+        },
+        {
+          "uid": 23,
+          "suspects": 22,
+          "refuses": 59,
+          "cases": 0,
+          "deaths": 0,
+          "name": "Ceará",
+          "tip": "CE"
+        },
+        {
+          "uid": 24,
+          "suspects": 14,
+          "cases": 1,
+          "refuses": 15,
+          "deaths": 0,
+          "name": "Rio Grande do Norte",
+          "tip": "RN"
+        },
+        {
+          "uid": 25,
+          "suspects": 27,
+          "refuses": 11,
+          "cases": 0,
+          "deaths": 0,
+          "name": "Paraíba",
+          "tip": "PB"
+        },
+        {
+          "uid": 26,
+          "suspects": 18,
+          "cases": 2,
+          "refuses": 23,
+          "deaths": 0,
+          "name": "Pernambuco",
+          "tip": "PE"
+        },
+        {
+          "uid": 27,
+          "suspects": 14,
+          "cases": 1,
+          "refuses": 21,
+          "deaths": 0,
+          "name": "Alagoas",
+          "tip": "AL"
+        },
+        {
+          "uid": 28,
+          "suspects": 1,
+          "cases": 1,
+          "refuses": 11,
+          "deaths": 0,
+          "name": "Sergipe",
+          "tip": "SE"
+        },
+        {
+          "uid": 29,
+          "suspects": 65,
+          "cases": 2,
+          "refuses": 36,
+          "broadcast": true,
+          "deaths": 0,
+          "name": "Bahia",
+          "tip": "BA"
+        },
+        {
+          "uid": 31,
+          "suspects": 106,
+          "cases": 2,
+          "refuses": 85,
+          "deaths": 0,
+          "name": "Minas Gerais",
+          "tip": "MG"
+        },
+        {
+          "uid": 32,
+          "suspects": 51,
+          "cases": 1,
+          "refuses": 21,
+          "deaths": 0,
+          "name": "Espírito Santo",
+          "tip": "ES"
+        },
+        {
+          "uid": 33,
+          "suspects": 95,
+          "cases": 24,
+          "refuses": 147,
+          "comments": "Transmissão comunitária no município do Rio de Janeiro",
+          "broadcast": true,
+          "deaths": 0,
+          "name": "Rio de Janeiro",
+          "tip": "RJ"
+        },
+        {
+          "uid": 35,
+          "suspects": 1125,
+          "cases": 136,
+          "refuses": 551,
+          "comments": "Transmissão comunitária no município de São Paulo.",
+          "broadcast": true,
+          "deaths": 0,
+          "name": "São Paulo",
+          "tip": "SP"
+        },
+        {
+          "uid": 41,
+          "suspects": 80,
+          "cases": 6,
+          "refuses": 50,
+          "deaths": 0,
+          "name": "Paraná",
+          "tip": "PR"
+        },
+        {
+          "uid": 42,
+          "suspects": 102,
+          "cases": 6,
+          "refuses": 41,
+          "deaths": 0,
+          "name": "Santa Catarina",
+          "tip": "SC"
+        },
+        {
+          "uid": 43,
+          "suspects": 66,
+          "cases": 6,
+          "refuses": 217,
+          "deaths": 0,
+          "name": "Rio Grande do Sul",
+          "tip": "RS"
+        },
+        {
+          "uid": 50,
+          "suspects": 15,
+          "refuses": 16,
+          "cases": 0,
+          "deaths": 0,
+          "name": "Mato Grosso do Sul",
+          "tip": "MS"
+        },
+        {
+          "uid": 51,
+          "suspects": 8,
+          "refuses": 7,
+          "cases": 0,
+          "deaths": 0,
+          "name": "Mato Grosso",
+          "tip": "MT"
+        },
+        {
+          "uid": 52,
+          "suspects": 4,
+          "cases": 3,
+          "refuses": 49,
+          "deaths": 0,
+          "name": "Goiás",
+          "tip": "GO"
+        },
+        {
+          "uid": 53,
+          "suspects": 81,
+          "cases": 8,
+          "refuses": 91,
+          "deaths": 0,
+          "name": "Distrito Federal",
+          "tip": "DF"
+        }
+      ]
     }
   ]
