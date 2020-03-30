@@ -1,3 +1,5 @@
+# Projeto Arquivado, governo removeu o site que tinha o histórico
+
 # COVID-19 Dados Brazil
 Todos os dados são extraídos do [site](http://plataforma.saude.gov.br/novocoronavirus/) oficial do ministério da saúde.
 
